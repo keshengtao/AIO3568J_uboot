@@ -1,0 +1,11 @@
+mtd_blk.c:100:13:get_mtd_blk_map_address	0	static
+mtd_blk.c:603:7:mtd_derase	160	static
+mtd_blk.c:640:12:mtd_blk_probe	64	static
+mtd_blk.c:173:27:mtd_map_read.isra.0	96	static
+mtd_blk.c:464:7:mtd_dread	64	static
+mtd_blk.c:222:27:mtd_map_write.isra.1	208	static
+mtd_blk.c:526:7:mtd_dwrite	80	static
+mtd_blk.c:35:5:mtd_blk_map_table_init	96	static
+mtd_blk.c:121:6:mtd_blk_map_partitions	176	static
+mtd_blk.c:145:6:mtd_blk_map_fit	64	static
+mtd_blk.c:353:7:mtd_part_parse	320	static

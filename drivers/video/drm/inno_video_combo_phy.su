@@ -1,0 +1,6 @@
+inno_video_combo_phy.c:657:12:inno_video_phy_set_mode	32	static
+inno_video_combo_phy.c:543:12:inno_video_phy_power_off	16	static
+inno_video_combo_phy.c:682:12:inno_video_phy_probe	48	static
+inno_video_combo_phy.c:274:13:inno_video_phy_mipi_mode_enable	336	static
+inno_video_combo_phy.c:515:12:inno_video_phy_power_on	32	static
+inno_video_combo_phy.c:636:22:inno_video_phy_set_pll	32	static

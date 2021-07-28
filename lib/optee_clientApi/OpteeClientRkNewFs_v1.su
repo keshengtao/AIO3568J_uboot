@@ -1,0 +1,16 @@
+OpteeClientRkNewFs_v1.c:102:12:check_security_exist	32	static
+OpteeClientRkNewFs_v1.c:393:12:rkss_read_patition_tables	32	static
+OpteeClientRkNewFs_v1.c:563:12:rkss_get_fileinfo_by_name	656	static
+OpteeClientRkNewFs_v1.c:652:12:rkss_get_dirs_by_name	624	static
+OpteeClientRkNewFs_v1.c:356:12:rkss_read_multi_sections	48	static
+OpteeClientRkNewFs_v1.c:532:12:rkss_get_fileinfo_by_index	576	static
+OpteeClientRkNewFs_v1.c:183:12:rkss_backup_sections	624	static
+OpteeClientRkNewFs_v1.c:371:12:rkss_write_multi_sections	48	static
+OpteeClientRkNewFs_v1.c:781:12:rkss_decref_multi_usedflags_sections	608	static
+OpteeClientRkNewFs_v1.c:868:12:rkss_write_back_ptable	576	static
+OpteeClientRkNewFs_v1.c:139:12:rkss_begin_commit	544	static
+OpteeClientRkNewFs_v1.c:164:12:rkss_finish_commit	528	static
+OpteeClientRkNewFs_v1.c:1068:20:ree_fs_new_write.isra.6	752	static
+OpteeClientRkNewFs_v1.c:936:20:ree_fs_new_create.isra.9	720	static
+OpteeClientRkNewFs_v1.c:1414:5:tee_supp_rk_fs_init_v1	1136	static
+OpteeClientRkNewFs_v1.c:1504:5:tee_supp_rk_fs_process_v1	192	static

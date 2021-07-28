@@ -1,0 +1,5 @@
+rk3568.c:1008:12:rk3568_board_fdt_fixup_ethernet	96	static
+rk3568.c:517:6:board_debug_uart_init	0	static
+rk3568.c:830:5:arch_cpu_init	0	static
+rk3568.c:926:5:spl_fit_standalone_release	32	static
+rk3568.c:1110:5:rk_board_fdt_fixup	64	static

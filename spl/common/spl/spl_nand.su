@@ -1,0 +1,2 @@
+spl_nand.c:32:14:spl_nand_fit_read	32	static
+spl_nand.c:107:12:spl_nand_load_image	96	static

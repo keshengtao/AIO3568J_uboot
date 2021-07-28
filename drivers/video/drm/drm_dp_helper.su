@@ -1,0 +1,8 @@
+drm_dp_helper.c:52:6:drm_dp_channel_eq_ok	0	static
+drm_dp_helper.c:71:6:drm_dp_clock_recovery_ok	0	static
+drm_dp_helper.c:85:4:drm_dp_get_adjust_request_voltage	0	static
+drm_dp_helper.c:97:4:drm_dp_get_adjust_request_pre_emphasis	0	static
+drm_dp_helper.c:109:6:drm_dp_link_train_clock_recovery_delay	32	static
+drm_dp_helper.c:123:6:drm_dp_link_train_channel_eq_delay	32	static
+drm_dp_helper.c:137:4:drm_dp_link_rate_to_bw_code	16	static
+drm_dp_helper.c:154:5:drm_dp_bw_code_to_link_rate	16	static

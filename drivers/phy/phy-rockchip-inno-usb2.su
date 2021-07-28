@@ -1,0 +1,15 @@
+phy-rockchip-inno-usb2.c:390:24:rockchip_usb2phy_check_vbus	64	static
+phy-rockchip-inno-usb2.c:207:13:rockchip_chg_enable_dcd	64	static
+phy-rockchip-inno-usb2.c:216:13:rockchip_chg_enable_primary_det	64	static
+phy-rockchip-inno-usb2.c:225:13:rockchip_chg_enable_secondary_det	64	static
+phy-rockchip-inno-usb2.c:437:12:rockchip_usb2phy_exit	32	static
+phy-rockchip-inno-usb2.c:413:12:rockchip_usb2phy_init	32	static
+phy-rockchip-inno-usb2.c:629:12:rk322x_usb2phy_tuning	0	static
+phy-rockchip-inno-usb2.c:475:12:rockchip_usb2phy_power_off	32	static
+phy-rockchip-inno-usb2.c:458:12:rockchip_usb2phy_power_on	32	static
+phy-rockchip-inno-usb2.c:543:12:rockchip_usb2phy_probe	144	static
+phy-rockchip-inno-usb2.c:515:12:rockchip_usb2phy_bind	80	static
+phy-rockchip-inno-usb2.c:492:12:rockchip_usb2phy_of_xlate	48	static
+phy-rockchip-inno-usb2.c:252:5:rockchip_chg_get_type	112	static
+phy-rockchip-inno-usb2.c:352:5:rockchip_u2phy_vbus_detect	16	static
+phy-rockchip-inno-usb2.c:362:6:otg_phy_init	80	static

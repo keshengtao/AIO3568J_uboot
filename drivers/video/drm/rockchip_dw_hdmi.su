@@ -1,0 +1,4 @@
+rockchip_dw_hdmi.c:542:12:rockchip_dw_hdmi_probe	0	static
+rockchip_dw_hdmi.c:325:6:drm_rk_selete_output	4736	dynamic,bounded
+rockchip_dw_hdmi.c:442:6:inno_dw_hdmi_set_domain	0	static
+rockchip_dw_hdmi.c:450:6:dw_hdmi_set_iomux	0	static

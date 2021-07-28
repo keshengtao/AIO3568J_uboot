@@ -1,0 +1,3 @@
+main.c:21:13:show_boot_progress	0	static
+main.c:27:13:autoboot_command_fail_handle	0	static
+main.c:50:6:main_loop	32	static

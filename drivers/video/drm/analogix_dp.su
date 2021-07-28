@@ -1,0 +1,12 @@
+analogix_dp.c:734:12:analogix_dp_connector_pre_init	0	static
+analogix_dp.c:837:12:analogix_dp_connector_disable	0	static
+analogix_dp.c:861:12:analogix_dp_probe	64	static
+analogix_dp.c:43:1:analogix_dp_enable_rx_to_enhanced_mode	48	static
+analogix_dp.c:70:13:analogix_dp_set_enhanced_mode	48	static
+analogix_dp.c:844:12:analogix_dp_connector_detect	16	static
+analogix_dp.c:743:12:analogix_dp_connector_init	48	static
+analogix_dp.c:154:12:analogix_dp_clock_recovery_ok	0	static
+analogix_dp.c:213:13:analogix_dp_get_adjust_training_lane	0	static
+analogix_dp.c:205:13:analogix_dp_reduce_link_rate	32	static
+analogix_dp.c:780:12:analogix_dp_connector_enable	112	static
+analogix_dp.c:763:12:analogix_dp_connector_get_edid	112	static

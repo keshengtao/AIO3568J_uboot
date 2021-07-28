@@ -1,0 +1,15 @@
+rockchip_lvds.c:113:12:rockchip_lvds_connector_pre_init	0	static
+rockchip_lvds.c:205:12:rockchip_lvds_probe	32	static
+rockchip_lvds.c:351:13:rk3568_lvds_disable	0	static
+rockchip_lvds.c:342:13:rk3568_lvds_enable	32	static
+rockchip_lvds.c:326:13:rk3368_lvds_disable	0	static
+rockchip_lvds.c:318:13:rk3368_lvds_enable	0	static
+rockchip_lvds.c:303:13:rk3288_lvds_disable	0	static
+rockchip_lvds.c:254:13:rk3126_lvds_disable	0	static
+rockchip_lvds.c:247:13:rk3126_lvds_enable	0	static
+rockchip_lvds.c:231:13:px30_lvds_disable	0	static
+rockchip_lvds.c:223:13:px30_lvds_enable	0	static
+rockchip_lvds.c:186:12:rockchip_lvds_connector_disable	32	static
+rockchip_lvds.c:165:12:rockchip_lvds_connector_enable	32	static
+rockchip_lvds.c:122:12:rockchip_lvds_connector_init	48	static
+rockchip_lvds.c:270:13:rk3288_lvds_enable	32	static

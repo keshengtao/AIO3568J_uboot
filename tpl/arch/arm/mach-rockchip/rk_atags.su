@@ -1,0 +1,7 @@
+rk_atags.c:137:12:bad_magic	16	static
+rk_atags.c:73:7:memset	0	static
+rk_atags.c:98:7:memcpy	0	static
+rk_atags.c:177:5:atags_is_available	0	static
+rk_atags.c:184:5:atags_set_tag	64	static
+rk_atags.c:323:13:atags_get_tag	0	static
+rk_atags.c:369:6:atags_destroy	0	static

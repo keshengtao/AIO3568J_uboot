@@ -1,0 +1,1 @@
+cmd_drivers/phy/built-in.o :=  /home/keshengtao/proj/rk356x_linux_release_20210511/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o drivers/phy/built-in.o drivers/phy/phy-uclass.o drivers/phy/phy-rockchip-inno-usb2.o drivers/phy/phy-rockchip-naneng-edp.o 

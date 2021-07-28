@@ -1,0 +1,16 @@
+sdram_common.c:13:6:sdram_print_dram_type	0	static
+sdram_common.c:108:5:sdram_get_cs_cap	0	static
+sdram_common.c:40:6:sdram_print_ddr_info	64	static
+sdram_common.c:147:6:sdram_copy_to_reg	0	static
+sdram_common.c:158:6:sdram_org_config	0	static
+sdram_common.c:181:6:sdram_org_config_v3	0	static
+sdram_common.c:223:5:sdram_detect_bw	0	static
+sdram_common.c:228:5:sdram_detect_cs	0	static
+sdram_common.c:233:5:sdram_detect_col	16	static
+sdram_common.c:259:5:sdram_detect_bank	0	static
+sdram_common.c:282:5:sdram_detect_bg	0	static
+sdram_common.c:305:5:sdram_detect_dbw	0	static
+sdram_common.c:355:5:sdram_detect_row	16	static
+sdram_common.c:381:5:sdram_detect_row_3_4	0	static
+sdram_common.c:405:5:sdram_detect_high_row	0	static
+sdram_common.c:413:5:sdram_detect_cs1_row	16	static

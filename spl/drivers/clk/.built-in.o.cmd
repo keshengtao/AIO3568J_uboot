@@ -1,0 +1,1 @@
+cmd_spl/drivers/clk/built-in.o :=  /home/keshengtao/proj/rk356x_linux_release_20210511/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o spl/drivers/clk/built-in.o spl/drivers/clk/clk-uclass.o spl/drivers/clk/clk_fixed_rate.o spl/drivers/clk/rockchip/built-in.o spl/drivers/clk/tegra/built-in.o 

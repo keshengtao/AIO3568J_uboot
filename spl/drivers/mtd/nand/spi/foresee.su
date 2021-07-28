@@ -1,0 +1,4 @@
+foresee.c:33:12:fsxxndxxg_ooblayout_ecc	0	static
+foresee.c:45:12:fsxxndxxg_ooblayout_free	0	static
+foresee.c:115:12:foresee_spinand_init	0	static
+foresee.c:95:12:foresee_spinand_detect	16	static

@@ -1,0 +1,1 @@
+cmd_drivers/i2c/built-in.o :=  /home/keshengtao/proj/rk356x_linux_release_20210511/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o drivers/i2c/built-in.o drivers/i2c/i2c-uclass.o drivers/i2c/rk_i2c.o 

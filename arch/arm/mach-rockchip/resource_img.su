@@ -1,0 +1,9 @@
+resource_img.c:139:12:add_file_to_list	64	static
+resource_img.c:170:12:replace_resource_entry	64	static
+resource_img.c:206:12:read_bmp.isra.0	64	static
+resource_img.c:263:12:read_logo_bmps	176	static
+resource_img.c:115:5:resource_image_check_header	16	static
+resource_img.c:521:30:get_file_info	240	static
+resource_img.c:277:5:resource_create_ram_list	64	static
+resource_img.c:547:5:rockchip_read_resource_file	64	static
+resource_img.c:881:5:rockchip_read_resource_dtb	64	static

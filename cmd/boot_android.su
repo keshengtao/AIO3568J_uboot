@@ -1,0 +1,12 @@
+boot_android.c:20:12:do_boot_android	64	static
+boot_android.c:265:5:do_avb_version	16	static
+boot_android.c:279:5:do_avb_read_rollback_index	48	static
+boot_android.c:341:5:do_avb_read_is_device_unlocked	48	static
+boot_android.c:368:5:do_avb_write_is_device_unlocked	48	static
+boot_android.c:399:5:do_avb_get_size_of_partition	48	static
+boot_android.c:430:5:do_avb_get_get_unique_guid_for_partition	80	static
+boot_android.c:509:5:do_perm_attr_test	96	static
+boot_android.c:309:5:do_avb_write_rollback_index	48	static
+boot_android.c:462:5:do_avb_read	80	static
+boot_android.c:542:5:do_avb_verify_partition	80	static
+boot_android.c:607:12:do_boot_avb	48	static

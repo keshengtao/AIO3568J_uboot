@@ -1,0 +1,11 @@
+rk_atags.c:160:12:atags_overflow	32	static
+rk_atags.c:137:12:bad_magic	32	static
+rk_atags.c:123:12:js_hash	0	static
+rk_atags.c:177:5:atags_is_available	0	static
+rk_atags.c:184:5:atags_set_tag	80	static
+rk_atags.c:284:13:atags_get_tag	32	static
+rk_atags.c:369:6:atags_destroy	0	static
+rk_atags.c:376:6:atags_stat	32	static
+rk_atags.c:404:6:atags_print_tag	64	static
+rk_atags.c:533:6:atags_print_all_tags	32	static
+rk_atags.c:551:12:do_dump_atags	16	static

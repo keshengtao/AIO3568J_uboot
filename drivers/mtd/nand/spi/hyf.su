@@ -1,0 +1,8 @@
+hyf.c:34:12:hyf1gq4upacae_ooblayout_ecc	0	static
+hyf.c:46:12:hyf1gq4upacae_ooblayout_free	0	static
+hyf.c:63:12:hyf1gq4udacae_ooblayout_ecc	0	static
+hyf.c:75:12:hyf1gq4udacae_ooblayout_free	0	static
+hyf.c:92:12:hyf2gq4uaacae_ooblayout_ecc	0	static
+hyf.c:104:12:hyf2gq4uaacae_ooblayout_free	0	static
+hyf.c:121:12:hyf1gq4udacae_ecc_get_status	0	static
+hyf.c:204:12:hyf_spinand_detect	16	static

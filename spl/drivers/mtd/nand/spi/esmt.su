@@ -1,0 +1,4 @@
+esmt.c:33:12:f50lxx41x_ooblayout_ecc	0	static
+esmt.c:45:12:f50lxx41x_ooblayout_free	0	static
+esmt.c:99:12:esmt_spinand_init	0	static
+esmt.c:78:12:esmt_spinand_detect	16	static

@@ -1,0 +1,11 @@
+rockchip_sdhci.c:364:12:rk3568_emmc_get_phy	0	static
+rockchip_sdhci.c:301:12:rk3568_emmc_phy_init	16	static
+rockchip_sdhci.c:458:12:arasan_sdhci_ofdata_to_platdata	32	static
+rockchip_sdhci.c:369:12:arasan_sdhci_set_clock	32	static
+rockchip_sdhci.c:384:12:arasan_sdhci_probe	80	static
+rockchip_sdhci.c:470:12:rockchip_sdhci_bind	32	static
+rockchip_sdhci.c:255:12:rk3399_emmc_get_phy	48	static
+rockchip_sdhci.c:161:12:rk3399_emmc_set_clock	48	static
+rockchip_sdhci.c:312:12:rk3568_sdhci_emmc_set_clock	48	static
+rockchip_sdhci.c:283:12:rk3399_sdhci_emmc_set_clock	48	static
+rockchip_sdhci.c:92:12:rk3399_emmc_phy_init	0	static

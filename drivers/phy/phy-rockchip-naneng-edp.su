@@ -1,0 +1,4 @@
+phy-rockchip-naneng-edp.c:273:12:rockchip_edp_phy_power_off	32	static
+phy-rockchip-naneng-edp.c:244:12:rockchip_edp_phy_power_on	32	static
+phy-rockchip-naneng-edp.c:294:12:rockchip_edp_phy_probe	32	static
+phy-rockchip-naneng-edp.c:211:12:rockchip_edp_phy_configure	48	static

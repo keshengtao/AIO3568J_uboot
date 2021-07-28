@@ -1,0 +1,11 @@
+crypto_v2.c:239:13:hw_hash_clean_ctx	32	static
+crypto_v2.c:1219:12:rockchip_crypto_rsa_verify	128	static
+crypto_v2.c:450:12:rockchip_crypto_capability	16	static
+crypto_v2.c:474:12:rockchip_crypto_sha_init	48	static
+crypto_v2.c:326:12:rk_hash_direct_calc	64	static
+crypto_v2.c:1310:12:rockchip_crypto_ofdata_to_platdata	64	static
+crypto_v2.c:1368:12:rockchip_crypto_probe	64	static
+crypto_v2.c:397:5:rk_hash_update	32	static
+crypto_v2.c:496:12:rockchip_crypto_sha_update	64	static
+crypto_v2.c:420:5:rk_hash_final	80	static
+crypto_v2.c:521:12:rockchip_crypto_sha_final	48	static

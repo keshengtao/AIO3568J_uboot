@@ -1,0 +1,12 @@
+fit.c:38:12:fit_sig_require_conf.isra.1	48	static
+fit.c:152:14:fit_get_blob.isra.3	64	static
+fit.c:70:5:fit_default_conf_get_node	32	static
+fit.c:101:12:fdt_image_get_offset_size	64	static
+fit.c:140:12:fit_image_get_param	48	static
+fit.c:81:5:fix_image_set_addr	48	static
+fit.c:197:12:fit_image_fixup_alloc	64	static
+fit.c:226:5:fit_image_pre_process	32	static
+fit.c:247:5:fit_image_fail_process	48	static
+fit.c:335:7:fit_image_get_bootables_size	64	static
+fit.c:361:7:fit_image_load_bootables	192	static
+fit.c:422:5:rockchip_read_fit_dtb	240	static

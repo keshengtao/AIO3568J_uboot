@@ -1,0 +1,3 @@
+boot_mode.c:59:5:get_bcb_recovery_msg	0	static
+boot_mode.c:76:5:rockchip_get_boot_mode	208	static
+boot_mode.c:214:5:setup_boot_mode	288	static

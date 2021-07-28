@@ -1,0 +1,1 @@
+cmd_drivers/power/fuel_gauge/built-in.o :=  /home/keshengtao/proj/rk356x_linux_release_20210511/prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-ld.bfd     -r -o drivers/power/fuel_gauge/built-in.o drivers/power/fuel_gauge/fuel_gauge_uclass.o drivers/power/fuel_gauge/fg_rk817.o 
